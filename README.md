@@ -45,4 +45,4 @@ Proyek ini merupakan sistem informasi penjualan tiket yang dikembangkan untuk me
 # Anggota Kelompok
 1. Anak Agung Tribhuana Mahadewi (210030394)
 2. Ni Putu Tia Sucita Dewi (230030302)
-Proyek ini disusun sebagai bagian dari tugas akhir mata kuliah Pemrograman Berorientasi Objek.
+   Proyek ini disusun sebagai bagian dari tugas akhir mata kuliah Pemrograman Berorientasi Objek.
