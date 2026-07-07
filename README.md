@@ -2,7 +2,7 @@
 Aplikasi desktop sistem informasi untuk pengelolaan penjualan tiket yang dibangun menggunakan Java dengan arsitektur Separation of Concerns (SoC).
 
 # Deskripsi Proyek
-Proyek ini merupakan sistem informasi penjualan tiket yang dikembangkan untuk memenuhi tugas mata kuliah [Sebutkan Nama Mata Kuliah]. Aplikasi ini memungkinkan admin untuk mengelola data tiket (Master Tiket) dan melakukan pencatatan penjualan tiket (Transaksi) secara terintegrasi dengan database MySQL.
+Proyek ini merupakan sistem informasi penjualan tiket yang dikembangkan untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek. Aplikasi ini memungkinkan admin untuk mengelola data tiket (Master Tiket) dan melakukan pencatatan penjualan tiket (Transaksi) secara terintegrasi dengan database MySQL.
 
 # Fitur Utama
 - Autentikasi: Sistem login aman dengan validasi username dan password dari database
@@ -45,4 +45,5 @@ Proyek ini merupakan sistem informasi penjualan tiket yang dikembangkan untuk me
 # Anggota Kelompok
 1. Anak Agung Tribhuana Mahadewi (210030394)
 2. Ni Putu Tia Sucita Dewi (230030302)
-   Proyek ini disusun sebagai bagian dari tugas akhir mata kuliah Pemrograman Berorientasi Objek.
+
+Proyek ini disusun sebagai bagian dari tugas akhir mata kuliah Pemrograman Berorientasi Objek.
